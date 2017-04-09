@@ -1,10 +1,14 @@
 # Ensinando minha princesa
 
-![]()
+![](http://i.imgur.com/WnjF3vk.jpg)
 
 Sou professora de Química e estou estudando muuuuuita pedagogia, psicologia, neurociência e PNL para fomentar a metodologia pedagógica da Webschool.
 
-![Projeto Pedagógico Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool)
+<br>
+
+**[Projeto Pedagógico Webschool](https://github.com/fpchemical/Projeto-Pedagogico-Webschool)**
+
+<br>
 
 
 > Sim! Vc leu direito eu estou estudando humanas!! 
